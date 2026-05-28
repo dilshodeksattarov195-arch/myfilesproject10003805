@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterualidate",
+        "uuid": 20474705,
+        "checksum": "lgeqp"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
